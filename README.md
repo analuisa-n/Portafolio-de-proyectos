@@ -1,8 +1,12 @@
 # Portafolio-de-proyectos
 Hola
 
-Aqui ire subiendo los proyectos que voy realizando
+Aqui algunos de los proyectos que voy realizando.
 
-El dashboard de Covid-19 esta realizado en PowerBI
+Dashboard realizados en Power-BI:
+Covid-19
+Billonarios
 
-La presentaciòn es realizada en Tableau
+
+
+La presentaciòn es realizada en Tableau.
